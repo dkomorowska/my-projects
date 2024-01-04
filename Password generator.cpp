@@ -9,16 +9,15 @@ int main()
     srand(time(NULL));
 	
 	int	passwordlength;
-	do
+	
+	while (true)
 	{
 		cout<<"Enter the length of the password: "<<endl;
 		cin>>passwordlength;
-		if (passwordlength <=0)
-		{
-			cout<<"ERROR - an invalid value was given"<<endl<<endl;
-		}
+		if (passwordlength > 0)
+		break;
+		cout<<"ERROR - an invalid value was given"<<endl<<endl;
 	}
-	while (passwordlength <=0);
 	
 	string password = "";
 	
