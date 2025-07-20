@@ -1,0 +1,11 @@
+Project Description
+A console application in C++ that allows you to manage a database of instruments. The program allows adding, editing, deleting and searching for instruments. 
+It supports garbage can operations, selected items and saving to files.
+
+Functions
+Managing instruments: Adding, editing, deleting.
+Trash: Moving items to the trash, restoring, permanently deleting.
+Marking: Marking instruments for further operations.
+Sorting and searching: Sort by name, price, number of items; search by name and price.
+File management: Saving and loading the database into files.
+Translated with DeepL.com (free version)
