@@ -1,8 +1,8 @@
-             README - Program AGENCJA OBSŁUGI KOLEKCJI APARTAMENTÓW
+             README - APARTMENT COLLECTION SERVICE AGENCY program.
 
-Opis:
-Program symuluje bazę danych mieszkań w agencji obsługi apartamentów. 
-Umożliwia tworzenie, zarządzanie i przetwarzanie informacji o mieszkaniach, 
-takie jak nazwa, cena, liczba pokoi, powierzchnia i rok budowy.
+Description:
+The program simulates an apartment database in an apartment service agency. 
+It allows you to create, manage and process information about apartments, 
+such as name, price, number of rooms, area and year of construction.
 
-Autor projektu:   Dominika Komorowska  2ADI
+Project author: Dominika Komorowska 2ADI
