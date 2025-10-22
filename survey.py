@@ -11,8 +11,8 @@ def vote(answer):
         update_results()
 
 def update_results():
-    result_1.config(text=f"YES: {answers[0]}", fg="green")  # YES always green
-    result_2.config(text=f"NO: {answers[1]}", fg="red")  # NO always red
+    result_1.config(text=f"YES: {answers[0]}", fg="green")
+    result_2.config(text=f"NO: {answers[1]}", fg="red")
 
 def end_survey():
     global survey_ended
@@ -50,3 +50,4 @@ end_button = tk.Button(window, text="End Survey", command=end_survey)
 end_button.pack(pady=10)
 
 window.mainloop()
+
