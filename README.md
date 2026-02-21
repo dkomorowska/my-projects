@@ -1,1 +1,1 @@
-A collection of various C++ projects that implement simple but interesting functionalities.
+A collection of various C++ and Python projects that implement simple but interesting functionalities.
