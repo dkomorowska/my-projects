@@ -1,5 +1,0 @@
-4539123456789012;1234;Emily Carter;emily.carter@gmail.com;1200,00
-5123987654321098;4321;Liam OConnor;liam.oconnor@gmail.com;4240,00
-4000123412341234;1111;Sofia Rossi;sofia.rossi@gmail.com;1840,75
-6011456789012345;2222;Mateo Garcia;mateo.garcia@gmail.com;5940,00
-3782822463100050;9999;Chloe Martin;chloe.martin@gmail.com;4960,00
