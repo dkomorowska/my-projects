@@ -1,4 +1,4 @@
-# Lead Time Planner -- Date Calculator
+# Lead Time Planner - Date Calculator
 
 Lead Time Planner is a lightweight desktop application built with
 **Python (Tkinter)** for calculating date-based operations in a simple
