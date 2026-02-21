@@ -39,10 +39,32 @@ The system is based on object-oriented programming principles and file handling 
 
 ## 📂 Project Structure
 
-- `ATMSimulator.*` – main application logic
-- `Loginpin.*` – login and PIN verification system
-- `Unit1–Unit5.*` – functional modules (ATM operations, interface, transactions)
-- `data/example_users.txt` – sample user database
+ATM-Simulator/
+│
+├── atms.cpp
+├── ATMSimulator.cpp
+├── ATMSimulator.h
+├── Loginpin.cpp
+├── Loginpin.h
+│
+├── Unit1.cpp
+├── Unit1.h
+├── Unit2.cpp
+├── Unit2.h
+├── Unit3.cpp
+├── Unit3.h
+├── Unit4.cpp
+├── Unit4.h
+├── Unit5.cpp
+├── Unit5.h
+│
+├── users.txt
+│
+├── screenshot_1.png
+├── screenshot_2.png
+├── screenshot_3.png
+│
+└── README.md
 
 ---
 
